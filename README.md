@@ -1,9 +1,10 @@
 ---
-### **DAY 6: SIMPLE CALCULATOR** 🧮
+### **DAY 7: GUESSING GAME 2.0** 🎮
 
-**GOAL:** Functions `def`, `return` samajhna  
-**PROJECT:** + - * / karne wala calculator  
-**CONCEPTS USED:** `def`, `return`, function calling, `if-elif-else`  
-**I WIN:** Code ko tukdo mein todna seekha! Ye SAP ka base hai 💪
+**GOAL:** Functions + while loop + code organization master karna  
+**PROJECT:** Professional guessing game with play-again feature  
+**CONCEPTS USED:** `def`, `return`, `global`, `while`, `try-except`, `main()`  
+**SAP LINK:** ABAP mein bhi FORM-PERFORM se code organize karte  
+**IGL WIN:** Spaghetti code se clean code pe upgrade! 💪
 
-**CODE:** [DAY-06-CALCULATOR.py](./DAY-06-CALCULATOR.py)
+**CODE:** [DAY-07-GUESS-GAME-PRO.py](./DAY-07-GUESS-GAME-PRO.py)
