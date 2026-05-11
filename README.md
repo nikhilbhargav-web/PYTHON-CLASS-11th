@@ -1,8 +1,9 @@
 ---
-### ** DAY 5: NUMBER GUESSING GAME **
+### **DAY 6: SIMPLE CALCULATOR** 🧮
 
-**GOAL:** `WHILE` LOOPS , `BREAK` , `RANDOM` MODULE SAMAJHNA
-**PROJECT:** COMPUTER EK SECRET NUMBER SOCHEGA AND USER GUESS KAREGA...
-**CONCEPTS USED:** `IMPORT RANDOM` , `WHILE TRUE` , `BREAK` , `ATTEMPTS COUNTER`
+**GOAL:** Functions `def`, `return` samajhna  
+**PROJECT:** + - * / karne wala calculator  
+**CONCEPTS USED:** `def`, `return`, function calling, `if-elif-else`  
+**I WIN:** Code ko tukdo mein todna seekha! Ye SAP ka base hai 💪
 
-**CODE:** [DAY-05-NUMBER-GUESS.py] (./DAY-05-NUMBER-GUESS.py)
+**CODE:** [DAY-06-CALCULATOR.py](./DAY-06-CALCULATOR.py)
